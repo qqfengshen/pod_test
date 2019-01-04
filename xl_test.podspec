@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "xl_test"
-  s.version      = "1.0"
+  s.version      = "1.1"
   s.summary      = "Make development 1.1"
   s.homepage     = "https://github.com/qqfengshen/pod_test"
   s.license      = "MIT"

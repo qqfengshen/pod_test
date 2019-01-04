@@ -14,4 +14,8 @@
     NSLog(@"hello pod");
 }
 
+-(void)hello2{
+    NSLog(@"hello2 pod");
+}
+
 @end
