@@ -17,5 +17,7 @@
 -(void)hello2{
     NSLog(@"hello2 pod");
 }
-
+-(void)hello3{
+    NSLog(@"hello3 pod");
+}
 @end

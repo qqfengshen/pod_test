@@ -12,5 +12,6 @@
 
 -(void)hello;
 -(void)hello2;
+-(void)hello3;
 
 @end
